@@ -2,11 +2,10 @@
 
 namespace EmployeeWageProblem
 {
-    internal class EmployeeCheck_UC2
+    public class EmployeeCheck
     {
-        public static void UC2()
-        {
-
+        public static void EmployeeAttendence()
+        { 
 
 
             int IS_FULL_TIME = 1;
